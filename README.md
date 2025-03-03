@@ -25,6 +25,6 @@ I also run **HL Gaming Official**, a gaming platform providing the latest news, 
 ## 📫 Let's Connect!  
 🌐 **Portfolio:** [https://github.com/haroonbrokha](#)  
 💼 **Fiverr:** [https://www.fiverr.com/haroon_brokha](#)  
-💻 **LinkedIn:** [[yourlinkedin.com](https://www.linkedin.com/in/haroon-aslam-0280232b3/)](#)  
+💻 **LinkedIn:** [https://www.linkedin.com/in/haroon-aslam-0280232b3](#)  
 
 ### 🚀 Check out my latest projects below!
