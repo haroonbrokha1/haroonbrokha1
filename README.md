@@ -1,0 +1,30 @@
+# 👋 Hi, I'm Haroon Brokha – Full-Stack Developer  
+
+🚀 **Building Scalable & High-Performance Web Apps** | 💻 **Freelancer on Fiverr** | 🎮 **Founder of HL Gaming Official**  
+
+## 👨‍💻 About Me  
+I'm a **Full-Stack Developer** specializing in modern web technologies, passionate about creating dynamic, scalable, and efficient digital solutions.  
+With expertise in **HTML, CSS, JavaScript, Firebase, Node.js, Express.js, and Vercel**, I build responsive and high-performance websites for clients worldwide.  
+
+I also run **HL Gaming Official**, a gaming platform providing the latest news, reviews, and esports opportunities.  
+
+## 🔧 Tech Stack & Skills  
+💡 **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
+🛠 **Backend:** Node.js, Express.js, Firebase  
+📦 **Databases:** Firestore, MongoDB  
+🚀 **Deployment & Hosting:** Vercel, Firebase Hosting  
+🔗 **APIs & Integrations:** RESTful APIs, Third-Party Services  
+
+## 📌 What I Do  
+✅ **Custom Web Development** – Crafting responsive & high-performance websites  
+✅ **Web Apps & Dashboards** – Dynamic solutions powered by **Node.js & Firebase**  
+✅ **E-commerce & Business Websites** – Secure & scalable solutions  
+✅ **API Development** – Backend services with **Express.js**  
+✅ **Freelancing on Fiverr** – Providing top-tier web development services  
+
+## 📫 Let's Connect!  
+🌐 **Portfolio:** [https://github.com/haroonbrokha](#)  
+💼 **Fiverr:** [https://www.fiverr.com/haroon_brokha](#)  
+💻 **LinkedIn:** [[yourlinkedin.com](https://www.linkedin.com/in/haroon-aslam-0280232b3/)](#)  
+
+### 🚀 Check out my latest projects below!
