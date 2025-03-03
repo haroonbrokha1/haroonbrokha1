@@ -2,6 +2,10 @@
 
 🚀 **Building Scalable & High-Performance Web Apps** | 💻 **Freelancer on Fiverr** | 🎮 **Founder of HL Gaming Official**  
 
+## ⚠️ Important Notice  
+🔴 **My original GitHub account is [@haroonbrokha](https://github.com/haroonbrokha), but due to some issues, it is currently private.**  
+🟢 **I am temporarily using my second account: [@haroonbrokha1](https://github.com/haroonbrokha1). Please keep this in mind!**  
+
 ## 👨‍💻 About Me  
 I'm a **Full-Stack Developer** specializing in modern web technologies, passionate about creating dynamic, scalable, and efficient digital solutions.  
 With expertise in **HTML, CSS, JavaScript, Firebase, Node.js, Express.js, and Vercel**, I build responsive and high-performance websites for clients worldwide.  
