@@ -1,35 +1,25 @@
 # 👋 Hi, I'm Haroon Brokha – Full-Stack Developer  
 
-🚀 **Building Scalable & High-Performance Web Apps** | 💻 **Freelancer on Fiverr** | 🎮 **Founder of HL Gaming Official**  
-
-## ⚠️ Important Notice  
-🔴 **My original GitHub account is [@haroonbrokha](https://github.com/haroonbrokha), but due to some issues, it is currently private.**  
-🟢 **I am temporarily using my second account: [@haroonbrokha1](https://github.com/haroonbrokha1). Please keep this in mind!**  
-🟢 **I am on CodePen so check account: [@haroon-brokha](https://codepen.io/haroon-brokha). Check My CodePen!**  
+🚀 **Passionate about building scalable and high-performance web applications.**  
 
 ## 👨‍💻 About Me  
-I'm a **Full-Stack Developer** specializing in modern web technologies, passionate about creating dynamic, scalable, and efficient digital solutions.  
-With expertise in **HTML, CSS, JavaScript, Firebase, Node.js, Express.js, and Vercel**, I build responsive and high-performance websites for clients worldwide.  
+I'm a **Full-Stack Developer** with a strong focus on modern web technologies. I enjoy working on dynamic, scalable, and efficient digital solutions.  
+I specialize in:  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
+- **Backend:** Node.js, Express.js, Firebase  
+- **Databases:** Firestore, MongoDB  
+- **Hosting & Deployment:** Vercel, Firebase Hosting  
+- **API Development:** RESTful APIs, Third-Party Integrations  
 
-I also run **HL Gaming Official**, a gaming platform providing the latest news, reviews, and esports opportunities.  
+## 🔧 What I Work On  
+✔ **Custom Web Development** – Creating responsive and high-performance websites.  
+✔ **Web Applications** – Building dynamic solutions with **JavaScript & Firebase**.  
+✔ **E-commerce & Dashboards** – Developing secure and scalable web solutions.  
+✔ **API Development** – Creating and integrating **RESTful APIs**.  
 
-## 🔧 Tech Stack & Skills  
-💡 **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
-🛠 **Backend:** Node.js, Express.js, Firebase  
-📦 **Databases:** Firestore, MongoDB  
-🚀 **Deployment & Hosting:** Vercel, Firebase Hosting  
-🔗 **APIs & Integrations:** RESTful APIs, Third-Party Services  
-
-## 📌 What I Do  
-✅ **Custom Web Development** – Crafting responsive & high-performance websites  
-✅ **Web Apps & Dashboards** – Dynamic solutions powered by **Node.js & Firebase**  
-✅ **E-commerce & Business Websites** – Secure & scalable solutions  
-✅ **API Development** – Backend services with **Express.js**  
-✅ **Freelancing on Fiverr** – Providing top-tier web development services  
+## 📌 My Work  
+I enjoy working on **open-source projects** and constantly improving my skills through hands-on experience. Check out my repositories for **various projects** related to web development and software engineering.  
 
 ## 📫 Let's Connect!  
-🌐 **Portfolio:** [https://github.com/haroonbrokha](#)  
-💼 **Fiverr:** [https://www.fiverr.com/haroon_brokha](#)  
-💻 **LinkedIn:** [https://www.linkedin.com/in/haroon-aslam-0280232b3](#)  
-
-### 🚀 Check out my latest projects in my main account here i have not made any public projects!
+💻 **LinkedIn:** [Haroon Aslam](https://www.linkedin.com/in/haroon-aslam-0280232b3)  
+🎨 **CodePen:** [@haroon-brokha](https://codepen.io/haroon-brokha)
