@@ -11,6 +11,11 @@ I specialize in:
 - **Hosting & Deployment:** Vercel, Firebase Hosting  
 - **API Development:** RESTful APIs, Third-Party Integrations  
 
+## 🔹 Account Structure  
+- **Primary Account:** [@haroonbrokha](https://github.com/haroonbrokha) (Main for direct work)  
+- **Secondary Account:** [@haroonbrokha1](https://github.com/haroonbrokha1) (Additional projects)  
+- **Tertiary Account:** [@haroonbrokha2](https://github.com/haroonbrokha2) (Testing & experiments)  
+
 ## 🔧 What I Work On  
 ✔ **Custom Web Development** – Creating responsive and high-performance websites.  
 ✔ **Web Applications** – Building dynamic solutions with **JavaScript & Firebase**.  
