@@ -22,7 +22,7 @@
     alt="Experience"
   />
 <img
-  src="https://img.shields.io/badge/📂%20Projects-100%2B%20Deployed-orange?style=for-the-badge&logo=folder&logoColor=white"
+  src="https://img.shields.io/badge/📂%20Projects-1000%2B%20Deployed-orange?style=for-the-badge&logo=folder&logoColor=white"
   alt="Projects"
 />
 
@@ -101,5 +101,5 @@ I specialize in:
 I enjoy working on **open-source projects** and constantly improving my skills through hands-on experience. Check out my repositories for **various projects** related to web development and software engineering.  
 
 ## Let's Connect!  
-💻 **LinkedIn:** [Haroon Aslam](https://www.linkedin.com/in/haroon-aslam-0280232b3)  
-🎨 **CodePen:** [@haroon-brokha](https://codepen.io/haroon-brokha)
+ **LinkedIn:** [Haroon Aslam](https://www.linkedin.com/in/haroon-aslam-0280232b3)  
+ **CodePen:** [@haroon-brokha](https://codepen.io/haroon-brokha)
