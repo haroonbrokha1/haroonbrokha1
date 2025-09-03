@@ -8,7 +8,7 @@
 
 <!-- ===== Tagline ===== -->
 <p align="center">
-  <strong>🚀 Passionate about building scalable and high-performance web applications</strong>
+  <strong> Passionate about building scalable and high-performance web applications</strong>
 </p>
 
 <!-- ===== Achievements Badges ===== -->
@@ -80,7 +80,7 @@
   />
 </p>
 
-## 👨‍💻 About Me  
+## About Me  
 I'm a **Full-Stack Developer** with a strong focus on modern web technologies. I enjoy working on dynamic, scalable, and efficient digital solutions.  
 I specialize in:  
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
@@ -89,20 +89,17 @@ I specialize in:
 - **Hosting & Deployment:** Vercel, Firebase Hosting  
 - **API Development:** RESTful APIs, Third-Party Integrations  
 
-## 🔹 Account Structure  
-- **Primary Account:** [@haroonbrokha](https://github.com/haroonbrokha) (Main for direct work)  
-- **Secondary Account:** [@haroonbrokha1](https://github.com/haroonbrokha1) (Additional projects)  
-- **Tertiary Account:** [@haroonbrokha2](https://github.com/haroonbrokha2) (Testing & experiments)  
-
+## Account Structure  
+- **Primary Account:** [@haroonbrokha](https://github.com/haroonbrokha1) (Main for direct work)  
 ## 🔧 What I Work On  
 ✔ **Custom Web Development** – Creating responsive and high-performance websites.  
 ✔ **Web Applications** – Building dynamic solutions with **JavaScript & Firebase**.  
 ✔ **E-commerce & Dashboards** – Developing secure and scalable web solutions.  
 ✔ **API Development** – Creating and integrating **RESTful APIs**.  
 
-## 📌 My Work  
+## My Work  
 I enjoy working on **open-source projects** and constantly improving my skills through hands-on experience. Check out my repositories for **various projects** related to web development and software engineering.  
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 💻 **LinkedIn:** [Haroon Aslam](https://www.linkedin.com/in/haroon-aslam-0280232b3)  
 🎨 **CodePen:** [@haroon-brokha](https://codepen.io/haroon-brokha)
